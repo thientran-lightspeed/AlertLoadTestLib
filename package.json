@@ -1,0 +1,24 @@
+{
+  "name": "alertloadtestlib",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "The library is to supports analyzing report of load test",
+  "main": "constants.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thientran-lightspeed/AlertLoadTestLib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thientran-lightspeed/AlertLoadTestLib/issues"
+  },
+  "homepage": "https://github.com/thientran-lightspeed/AlertLoadTestLib#readme",
+  "dependencies": {
+    "jszip": "^3.10.1",
+    "xlsx": "^0.18.5"
+  }
+}
